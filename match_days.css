@@ -76,3 +76,14 @@ li{
 	position:relative;
 	top:1px;
 }
+
+p{
+	color:red;
+	font-size:13px;
+	text-align:center
+}
+
+footer{
+  text-align:center;
+  font-size: 10px;
+}
