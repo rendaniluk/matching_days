@@ -87,3 +87,16 @@ footer{
   text-align:center;
   font-size: 10px;
 }
+
+.inputs input[type='date']{
+    padding : 0.5em;
+}
+
+.inputs label {
+    display: inline-block;
+    width : 30%;
+    text-align: right;
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 0.5em;
+}
